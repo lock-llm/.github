@@ -2,7 +2,7 @@
 
 * **Website**: [lock-llm.github.io](https://lock-llm.github.io/)
 
-* **Keynote Speakers**: [Zico Kolter](https://zicokolter.com/), [Charles Fleming](https://outshift.cisco.com/blog/author/charles-fleming), [Bhavya Kailkhura](https://people.llnl.gov/kailkhura1), [Huan Liu](https://faculty.engineering.asu.edu/huanliu), [Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang), [Dawn Song](https://dawnsong.io/), [Yu Cheng](https://ych133.github.io/)
+* **Keynote Speakers**: [Yu Cheng](https://ych133.github.io/), [Charles Fleming](https://outshift.cisco.com/blog/author/charles-fleming), [Bhavya Kailkhura](https://people.llnl.gov/kailkhura1), [Zico Kolter](https://zicokolter.com/), [Huan Liu](https://faculty.engineering.asu.edu/huanliu), [Dawn Song](https://dawnsong.io/), [Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang)
 
 * **Organizers**: [Tianlong Chen](https://tianlong-chen.github.io), [Ang Li](https://www.ang-li.com/), [Furong Huang](https://www.cs.umd.edu/people/furongh), [Avi Schwarzschild](https://www.avischwarzschild.com/), [Neil Zhenqiang Gong](https://people.duke.edu/~zg70/), [Bo Li](https://aisecure.github.io/), [Yuxiong He](https://www.snowflake.com/en/blog/authors/yuxiong-he/)
 
